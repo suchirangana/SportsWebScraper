@@ -1,1 +1,2 @@
-# SportsWebScraper
+# Sports Web Scraper
+Initial Setup
