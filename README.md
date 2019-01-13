@@ -1,2 +1,2 @@
 # Sports Web Scraper
-Initial Setup
+A Python Project
