@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 This is a test file for git!
-=======
-this is a test file for git
->>>>>>> parent of 3feaf60... testing commit
