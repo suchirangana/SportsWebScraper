@@ -1,2 +1,2 @@
 # Sports Web Scraper
-A Python Projecta
+A Python Project
