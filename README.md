@@ -1,3 +1,3 @@
 # Sports Web Scraper
-A Python Project \n
+A Python Project
 Suchir Angana
